@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "görev-Classroom",
+      "appliesTo": "Ceng206Project2/Classroom.h",
+      "type": "launch"
+    }
+  ]
+}
